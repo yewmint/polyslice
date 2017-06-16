@@ -1,0 +1,16 @@
+{
+  "name": "polyslice",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yewmint",
+  "license": "ISC",
+  "dependencies": {
+    "coffee-loader": "^0.7.3",
+    "coffee-script": "^1.12.4",
+    "webpack": "^2.3.2"
+  }
+}
